@@ -42,6 +42,9 @@
     border-top: 5px solid rgb(95,217,217);
     border-radius: 10px;
 }
+.card p{
+    margin-left:15px;
+}
 .card h2,p{
     padding-top: 10px;
     margin-left: 20px;
