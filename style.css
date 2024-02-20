@@ -15,7 +15,7 @@ justify-content: center;
     width: 20%;
     background-color:white;
     position: absolute;
-    left: 460px;
+    left: 440px;
     top: 150px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
@@ -39,14 +39,14 @@ justify-content: center;
     color:rgb(168,170,179);
 }
 .header h1{
-    font-size: 23px;
+    font-size: 18px;
     font-family: "Poppins", sans-serif;
     font-weight: 200;
     font-style: normal;
     color:rgb(164,166,175);
 }
 .header h3{
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 700;
     font-family:"Poppins", sans-serif ;
     color: rgb(76,78,97);
